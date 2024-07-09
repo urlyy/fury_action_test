@@ -1,4 +1,6 @@
 <div align="center">
+
+
   <img width="65%" alt="" src="docs/images/logo/fury_github_banner.png"><br>
 </div>
 
